@@ -1,0 +1,10 @@
+{
+  "name": "AI Pain Assessment",
+  "description": "Real-time AI pain assessment using facial expressions and computer vision to deliver clinical severity scores and FACS action unit telemetry.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
